@@ -1,0 +1,24 @@
+.addcar{
+    margin-top: 5%;
+    background-color: rgb(224, 224, 224);
+}
+.carname{
+    background-color: rgb(174, 190, 219);
+    align-items: center;
+    margin-left: 10%;
+    width: 50%;
+    
+}
+.select{
+    border-radius:12px ;
+    border-width: 2px;
+    background-color: rgba(192, 204, 236, 0.418);
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.buttonadd{
+    border-radius:12px ;
+    border-width: 2px;
+    background: rgb(241, 238, 206);
+    margin-left: 1%;
+}
